@@ -1,0 +1,15 @@
+C:\Users\mcguertyj\Documents\Repos\AdamAndEve\bin\Debug\net6.0\AdamAndEve.exe
+C:\Users\mcguertyj\Documents\Repos\AdamAndEve\bin\Debug\net6.0\AdamAndEve.deps.json
+C:\Users\mcguertyj\Documents\Repos\AdamAndEve\bin\Debug\net6.0\AdamAndEve.runtimeconfig.json
+C:\Users\mcguertyj\Documents\Repos\AdamAndEve\bin\Debug\net6.0\AdamAndEve.dll
+C:\Users\mcguertyj\Documents\Repos\AdamAndEve\bin\Debug\net6.0\AdamAndEve.pdb
+C:\Users\mcguertyj\Documents\Repos\AdamAndEve\obj\Debug\net6.0\AdamAndEve.csproj.AssemblyReference.cache
+C:\Users\mcguertyj\Documents\Repos\AdamAndEve\obj\Debug\net6.0\AdamAndEve.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcguertyj\Documents\Repos\AdamAndEve\obj\Debug\net6.0\AdamAndEve.AssemblyInfoInputs.cache
+C:\Users\mcguertyj\Documents\Repos\AdamAndEve\obj\Debug\net6.0\AdamAndEve.AssemblyInfo.cs
+C:\Users\mcguertyj\Documents\Repos\AdamAndEve\obj\Debug\net6.0\AdamAndEve.csproj.CoreCompileInputs.cache
+C:\Users\mcguertyj\Documents\Repos\AdamAndEve\obj\Debug\net6.0\AdamAndEve.dll
+C:\Users\mcguertyj\Documents\Repos\AdamAndEve\obj\Debug\net6.0\refint\AdamAndEve.dll
+C:\Users\mcguertyj\Documents\Repos\AdamAndEve\obj\Debug\net6.0\AdamAndEve.pdb
+C:\Users\mcguertyj\Documents\Repos\AdamAndEve\obj\Debug\net6.0\AdamAndEve.genruntimeconfig.cache
+C:\Users\mcguertyj\Documents\Repos\AdamAndEve\obj\Debug\net6.0\ref\AdamAndEve.dll
